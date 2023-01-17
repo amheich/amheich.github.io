@@ -1,2 +1,3 @@
-# amheich.github.io
-theme:minima
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
