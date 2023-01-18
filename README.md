@@ -7,7 +7,7 @@
   </div>
   <div>
    <figure>
-  <img src="sg_icon.png" alt="" />
+  <img src="sg_icon.png" alt="https://scholar.google.fr/citations?user=Hdv9uGoAAAAJ&hl=fr&oi=ao" />
 </figure>
  
   </div>
