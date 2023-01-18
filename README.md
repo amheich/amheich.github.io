@@ -11,8 +11,16 @@
 </li>
     <li> A Mheich, F Wendling, M Hassan (2020). Brain network similarity: methods and application. Network Neuroscience 4 (3), 507-527. https://www.mitpressjournals.org/doi/abs/10.1162/netn_a_00133
 </li>
-    <li>Mheich, A., Hassan, M., Khalil, M., Gripon, V., Dufor, O. and Wendling, F., (2017). SimiNet: a Novel Method for Quantifying Brain Network Similarity. IEEE Trans Pattern Anal Mach Intell.  http://www.ncbi.nlm.nih.gov/pubmed/28910755 
-</li>
+   <li> J Rizkallah,A Mheich, M Hassan, R Panda, F Wendling,et al. "Decreased integration of EEG source-space networks in disorders of consciousness". Decreased integration of EEG source-space networks in disorders of consciousness. NeuroImage: Clinical, 23(April), 101841, 2019.
+<li> V Paban, J Modolo, A Mheich and M Hassan, "Psychological resilience correlates with EEG source-space brain network flexibility" Network Neuroscience, 2018 - MIT Press </li>
+<li> A Mheich, M. Hassan, M. Khalil, V. Gripon, O. Dufor and F. Wendling, "SimiNet: a Novel Method for Quantifying Brain Network Similarity" in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. PP, no. 99, pp. 1-1, 2018.
+    </li>
+   <li>
+M Hassan, I Merlet, A Mheich, A Kabbara, A Biraben, A Nica, F Wendling,"Identification of interictal epileptic networks from dense-EEG",Brain Topography, 1-17, 2016.
+    </li>
+   <li>
+A Mheich, M Hassan, M Khalil, C Berrou, and F Wendling, "A new algorithm for spatiotemporal analysis of brain functional connectivity",Journal of neuroscience methods, 2015.
+    </li>
   </ul>
 </div>
 <h1>To contact me</h1>
