@@ -1,4 +1,16 @@
-  <div class="column">
+  <style>
+ 
+    /* Set additional styling options for the columns*/
+    .column {
+    float: left;
+    width: 50%;
+    }
+
+    </style>
+ 
+ 
+ 
+ <div class="column">
             <h2>Ahmad MHEICH</h2>
 
   </div>
