@@ -7,7 +7,9 @@
   </div>
   <div>
    <figure>
-  <img src="sg_icon.png" alt="https://scholar.google.fr/citations?user=Hdv9uGoAAAAJ&hl=fr&oi=ao" />
+    <a href="[https://www.Youtube.com/](https://scholar.google.fr/citations?user=Hdv9uGoAAAAJ&hl=fr&oi=ao)">
+  <img src="sg_icon.png" alt="scholar google" />
+    </a>
 </figure>
  
   </div>
