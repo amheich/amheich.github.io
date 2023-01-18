@@ -6,7 +6,7 @@
 
   </div>
   <div  align="justify">
-   <figure>
+   <figure align="center">
     <a href="https://scholar.google.fr/citations?user=Hdv9uGoAAAAJ&hl=fr&oi=ao">
   <img src="icons8-google-scholar-48.png" alt="scholar google" />
     </a>
