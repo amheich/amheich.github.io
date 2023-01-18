@@ -1,6 +1,5 @@
   <style>
- 
-    /* Set additional styling options for the columns*/
+
     .column {
     float: left;
     width: 50%;
