@@ -2,8 +2,15 @@
 <h1>About me</h1>
 
 <div>
-  <p> I am a research scientist working in the field of brain signal processing. My main research interests are Electrophysiology (EEG/MEG); Brain Networks; Brain Disorders; Brain networks similarity</p>
+  <p> I am a research scientist working in the field of brain signal processing. My main research interests are Electrophysiology (EEG/MEG); Brain Networks; Brain Disorders; Brain networks similarity </p>
+
   </div>
+  <div>
+  <i src="sg_icon.png">
+   </i>
+  </div>
+ 
+ 
   <h1>Publications</h1>
   <div>
   <ul>
