@@ -7,7 +7,7 @@ Ahmad MHEICH
   <h1>Publications</h1>
   <div>
   <ul>
-    <li>A Mheich, O Dufor, S Yassine, A Kabbara, A Biraben, F Wendling, M hassan (2021). HD-EEG for tracking sub-second brain dynamics during cognitive tasks. Scientific Data 8 (1), 1-14. https://www.nature.com/articles/s41597-021-00821-1
+    <li a href="https://www.nature.com/articles/s41597-021-00821-1">A Mheich, O Dufor, S Yassine, A Kabbara, A Biraben, F Wendling, M hassan (2021). HD-EEG for tracking sub-second brain dynamics during cognitive tasks. Scientific Data 8 (1), 1-14. https://www.nature.com/articles/s41597-021-00821-1
 </li>
     <li> A Mheich, F Wendling, M Hassan (2020). Brain network similarity: methods and application. Network Neuroscience 4 (3), 507-527. https://www.mitpressjournals.org/doi/abs/10.1162/netn_a_00133
 </li>
