@@ -7,8 +7,8 @@
   </div>
   <div  align="justify">
    <figure>
-    <a href="[https://www.Youtube.com/](https://scholar.google.fr/citations?user=Hdv9uGoAAAAJ&hl=fr&oi=ao)">
-  <img src="sg_icon.png" alt="scholar google" />
+    <a href="https://scholar.google.fr/citations?user=Hdv9uGoAAAAJ&hl=fr&oi=ao">
+  <img src="icons8-google-scholar-48.png" alt="scholar google" />
     </a>
 </figure>
  
