@@ -1,4 +1,8 @@
-Ahmad MHEICH
+  <div class="column">
+            <h2>Ahmad MHEICH</h2>
+
+  </div>
+ <div class="column">
 <h1>About me</h1>
 
 <div>
@@ -20,3 +24,4 @@ Ahmad MHEICH
   
   
 </div>
+  </div>
