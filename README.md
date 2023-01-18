@@ -14,7 +14,7 @@
   <img src=" icons8-twitter-48.png" alt="twitter" />
     </a>
      <a href="https://www.linkedin.com/in/ahmad-mheich-76583062/">
-  <img src=" icons8-linkedin-circled-48" alt="LinkedIn" />
+  <img src=" icons8-linkedin-circled-48.png" alt="LinkedIn" />
     </a>
    
    
