@@ -6,8 +6,10 @@
 
   </div>
   <div>
-  <i src="sg_icon.png">
-   </i>
+   <figure>
+  <img src="sg_icon.png" alt="" />
+</figure>
+ 
   </div>
  
  
