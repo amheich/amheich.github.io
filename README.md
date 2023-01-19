@@ -60,7 +60,6 @@ A Mheich, M Hassan, M Khalil, C Berrou, and F Wendling, A new algorithm for spat
   
 </div>
   </div>
-  
 <div>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-amheich&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
+ https://komarev.com/ghpvc/?username=amheich&label=PROFILE+VIEWS
  </div>
