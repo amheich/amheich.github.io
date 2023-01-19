@@ -18,7 +18,7 @@
    </p>
   <img src=" Methods.png" />
  
-   <i> A Mheich, F Wendling, M Hassan (2020). Brain network similarity: methods and application. Network Neuroscience 4 (3), 507-527.</i>
+  <i> A Mheich, F Wendling, M Hassan (2020).</i> <i> <a href="https://direct.mit.edu/netn/article/4/3/507/95827/Brain-network-similarity-methods-and-applications"> Brain network similarity: methods and application. Network Neuroscience 4 (3), 507-527.</a></i>
   </div>
  <div align="justify">
   <h3> HD-EEG open data </h3>
@@ -31,6 +31,7 @@
  
  
   <div  align="justify">
+   <h3> Other publications </h3>
   <ul>
 
    <li> J Rizkallah,A Mheich, M Hassan, R Panda, F Wendling,et al. Decreased integration of EEG source-space networks in disorders of consciousness. Decreased integration of EEG source-space networks in disorders of consciousness. NeuroImage: Clinical, 23(April), 101841, 2019.
