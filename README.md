@@ -20,14 +20,11 @@
   </div>
  <div align="justify">
   <h3> HD-EEG open access data </h3>
-  <a href=""> Dataset 1</a> <br>
-  <a href=""> Dataset 2</a>
-  <p>
-   These datasets were collected between 2014 and 2017 in Rennes (France) during four conditions (resting state, visual naming, auditory naming and working memory tasks).
-   </p>
-  
-  
-  <i> A Mheich, O Dufor, S Yassine, A Kabbara, A Biraben, F Wendling, M hassan (2021). HD-EEG for tracking sub-second brain dynamics during cognitive tasks. Scientific Data 8 (1), 1-14.
+  <p><a href="https://openneuro.org/datasets/ds003420/versions/1.0.2"> Dataset 1</a>: This dataset was collected between 2012 and 2013 in Rennes (France) during two conditions (visual naming and spelling tasks).  </p><br>
+  <p><a href="https://openneuro.org/datasets/ds003421/versions/1.0.2"> Dataset 2</a>: This dataset was collected between 2014 and 2017 in Rennes (France) during four conditions (resting state, visual naming, auditory naming and working memory tasks).
+  </p>
+   
+  <i> A Mheich, O Dufor, S Yassine, A Kabbara, A Biraben, F Wendling, M hassan (2021).<a href="https://www.nature.com/articles/s41597-021-00821-1"> HD-EEG for tracking sub-second brain dynamics during cognitive tasks.</a> Scientific Data 8 (1), 1-14.
 </i>
    </div>
  
