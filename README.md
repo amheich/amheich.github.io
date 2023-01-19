@@ -23,6 +23,14 @@
  
  
   <h1  align="center">Publications</h1>
+ <h2> Brain network similarity : Review </h2>
+ <div align="justify">
+  <p>
+   In this review, we will discuss the current state of the art, challenges and a collection of analysis tools that have been developed in recent years to compare brain networks
+   </p>
+  <img src=" Methods.png" />
+  </div>
+ 
   <div  align="justify">
   <ul>
     <li> A Mheich, O Dufor, S Yassine, A Kabbara, A Biraben, F Wendling, M hassan (2021). HD-EEG for tracking sub-second brain dynamics during cognitive tasks. Scientific Data 8 (1), 1-14.
