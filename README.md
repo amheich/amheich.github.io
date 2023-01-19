@@ -29,6 +29,9 @@
    
   <i> A Mheich, O Dufor, S Yassine, A Kabbara, A Biraben, F Wendling, M hassan (2021).<a href="https://www.nature.com/articles/s41597-021-00821-1"> HD-EEG for tracking sub-second brain dynamics during cognitive tasks.</a> Scientific Data 8 (1), 1-14.
 </i>
+  <p align="center">
+  <img src=" OpenNeuro.png" />
+  </p>
    </div>
  
  <br>
