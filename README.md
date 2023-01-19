@@ -6,20 +6,7 @@
   <p> I am a research scientist working in the field of brain signal processing. My main research interests are Electrophysiology (EEG/MEG); Brain Networks; Brain Disorders; Brain networks similarity </p>
 
   </div>
-  <div  align="justify">
-   <figure>
-    <a href="https://scholar.google.fr/citations?user=Hdv9uGoAAAAJ&hl=fr&oi=ao">
-  <img src="icons8-google-scholar-48.png" alt="scholar google" />
-    </a>
-     <a href="https://twitter.com/AhmadMheish">
-  <img src=" icons8-twitter-48.png" alt="twitter" />
-    </a>
-     <a href="https://www.linkedin.com/in/ahmad-mheich-76583062/">
-  <img src=" icons8-linkedin-circled-48.png" alt="LinkedIn" />
-    </a>
-</figure>
 
-  </div>
  
  
   <h1  align="center">Publications</h1>
@@ -55,9 +42,19 @@ A Mheich, M Hassan, M Khalil, C Berrou, and F Wendling, A new algorithm for spat
   </ul>
 </div>
 <h1  align="center">To contact me</h1>
-<div  align="justify">
-  
-  
-</div>
+  <div  align="justify">
+   <figure>
+    <a href="https://scholar.google.fr/citations?user=Hdv9uGoAAAAJ&hl=fr&oi=ao">
+  <img src="icons8-google-scholar-48.png" alt="scholar google" />
+    </a>
+     <a href="https://twitter.com/AhmadMheish">
+  <img src=" icons8-twitter-48.png" alt="twitter" />
+    </a>
+     <a href="https://www.linkedin.com/in/ahmad-mheich-76583062/">
+  <img src=" icons8-linkedin-circled-48.png" alt="LinkedIn" />
+    </a>
+</figure>
+
+  </div>
   </div>
 
