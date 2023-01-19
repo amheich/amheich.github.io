@@ -14,17 +14,21 @@
  <div align="justify">
    <h3> Brain network similarity : Review </h3>
   <p>
-   In this review, we will discuss the current state of the art, challenges and a collection of analysis tools that have been developed in recent years to compare brain networks
+   In this review, we  discussed the current state of the art, challenges and a collection of analysis tools that have been developed in recent years to compare brain networks
    </p>
   <img src=" Methods.png" />
  
   <i> A Mheich, F Wendling, M Hassan (2020).</i> <i> <a href="https://direct.mit.edu/netn/article/4/3/507/95827/Brain-network-similarity-methods-and-applications"> Brain network similarity: methods and application </a> Network Neuroscience 4 (3), 507-527.</i>
   </div>
  <div align="justify">
-  <h3> HD-EEG open data </h3>
+  <h3> HD-EEG open access data </h3>
+  <a href=""> Dataset 1</a>
+    <a href=""> Dataset 2</a>
   <p>
-   This dataset was collected between 2014 and 2017 in Rennes (France) during four conditions (resting state, visual naming, auditory naming and working memory tasks).
+   These datasets were collected between 2014 and 2017 in Rennes (France) during four conditions (resting state, visual naming, auditory naming and working memory tasks).
    </p>
+  
+  
   <i> A Mheich, O Dufor, S Yassine, A Kabbara, A Biraben, F Wendling, M hassan (2021). HD-EEG for tracking sub-second brain dynamics during cognitive tasks. Scientific Data 8 (1), 1-14.
 </i>
    </div>
