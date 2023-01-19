@@ -28,7 +28,7 @@
 </i>
    </div>
  
- 
+ <br>
   <div  align="justify">
    <h3> Other publications </h3>
   <ul>
