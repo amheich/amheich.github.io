@@ -1,12 +1,13 @@
  <div class="column">
-<h1>About me</h1>
+
+<h1  align="center">About me</h1>
 
 <div  align="justify">
   <p> I am a research scientist working in the field of brain signal processing. My main research interests are Electrophysiology (EEG/MEG); Brain Networks; Brain Disorders; Brain networks similarity </p>
 
   </div>
   <div  align="justify">
-   <figure align="center">
+   <figure>
     <a href="https://scholar.google.fr/citations?user=Hdv9uGoAAAAJ&hl=fr&oi=ao">
   <img src="icons8-google-scholar-48.png" alt="scholar google" />
     </a>
@@ -21,7 +22,7 @@
   </div>
  
  
-  <h1>Publications</h1>
+  <h1  align="center">Publications</h1>
   <div  align="justify">
   <ul>
     <li> A Mheich, O Dufor, S Yassine, A Kabbara, A Biraben, F Wendling, M hassan (2021). HD-EEG for tracking sub-second brain dynamics during cognitive tasks. Scientific Data 8 (1), 1-14.
@@ -45,7 +46,7 @@ A Mheich, M Hassan, M Khalil, C Berrou, and F Wendling, A new algorithm for spat
     </li>
   </ul>
 </div>
-<h1>To contact me</h1>
+<h1  align="center">To contact me</h1>
 <div  align="justify">
   
   
