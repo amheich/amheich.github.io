@@ -18,7 +18,7 @@
    </p>
   <img src=" Methods.png" />
  
-  <i> A Mheich, F Wendling, M Hassan (2020).</i> <i> <a href="https://direct.mit.edu/netn/article/4/3/507/95827/Brain-network-similarity-methods-and-applications"> Brain network similarity: methods and application. Network Neuroscience 4 (3), 507-527.</a></i>
+  <i> A Mheich, F Wendling, M Hassan (2020).</i> <i> <a href="https://direct.mit.edu/netn/article/4/3/507/95827/Brain-network-similarity-methods-and-applications"> Brain network similarity: methods and application </a> Network Neuroscience 4 (3), 507-527.</i>
   </div>
  <div align="justify">
   <h3> HD-EEG open data </h3>
