@@ -44,7 +44,7 @@
    
 <li> V Paban, J Modolo, A Mheich and M Hassan, Psychological resilience correlates with EEG source-space brain network flexibility, Network Neuroscience, 2018 - MIT Press 
    </li>
-<li> A Mheich, M. Hassan, M. Khalil, V. Gripon, O. Dufor and F. Wendling, <a href="https://ieeexplore.ieee.org/abstract/document/8030083?casa_token=DD4hFjBOsB4AAAAA:ywDOZ5pfYiaOp0IRJbRqhhmzGouCN1hmu2gKYGSmGjjB3AWvapQu8SIiuc3TjCyMgfkz8-E6OeZ8"> SimiNet: a Novel Method for Quantifying Brain Network Similarity </a>.IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. PP, no. 99, pp. 1-1, 2018.
+<li> A Mheich, M. Hassan, M. Khalil, V. Gripon, O. Dufor and F. Wendling, <a href="https://ieeexplore.ieee.org/abstract/document/8030083?casa_token=DD4hFjBOsB4AAAAA:ywDOZ5pfYiaOp0IRJbRqhhmzGouCN1hmu2gKYGSmGjjB3AWvapQu8SIiuc3TjCyMgfkz8-E6OeZ8"> SimiNet: a Novel Method for Quantifying Brain Network Similarity.</a> IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. PP, no. 99, pp. 1-1, 2018.
     </li>
    <li>
 M Hassan, I Merlet, A Mheich, A Kabbara, A Biraben, A Nica, F Wendling, Identification of interictal epileptic networks from dense-EEG,Brain Topography, 1-17, 2016.
