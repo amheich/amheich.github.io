@@ -10,22 +10,31 @@
  
  
   <h1  align="center">Publications</h1>
- <h3> Brain network similarity : Review </h3>
+
  <div align="justify">
+   <h3> Brain network similarity : Review </h3>
   <p>
    In this review, we will discuss the current state of the art, challenges and a collection of analysis tools that have been developed in recent years to compare brain networks
    </p>
   <img src=" Methods.png" />
+ 
+
+     <i> A Mheich, F Wendling, M Hassan (2020). Brain network similarity: methods and application. Network Neuroscience 4 (3), 507-527. 
+</i>
   </div>
+ <div align="justify">
+  <h3> HD-EEG open data 
+  <p>
+   This dataset was collected between 2014 and 2017 in Rennes (France) during four conditions (resting state, visual naming, auditory naming and working memory tasks).
+   </p>
+  <i> A Mheich, O Dufor, S Yassine, A Kabbara, A Biraben, F Wendling, M hassan (2021). HD-EEG for tracking sub-second brain dynamics during cognitive tasks. Scientific Data 8 (1), 1-14.
+</i>
+   </div>
+ 
  
   <div  align="justify">
   <ul>
-    <li> A Mheich, O Dufor, S Yassine, A Kabbara, A Biraben, F Wendling, M hassan (2021). HD-EEG for tracking sub-second brain dynamics during cognitive tasks. Scientific Data 8 (1), 1-14.
-</li>
-   
-    <li> A Mheich, F Wendling, M Hassan (2020). Brain network similarity: methods and application. Network Neuroscience 4 (3), 507-527. 
-</li>
-   
+
    <li> J Rizkallah,A Mheich, M Hassan, R Panda, F Wendling,et al. Decreased integration of EEG source-space networks in disorders of consciousness. Decreased integration of EEG source-space networks in disorders of consciousness. NeuroImage: Clinical, 23(April), 101841, 2019.
     </li>
    
