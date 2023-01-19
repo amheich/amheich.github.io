@@ -3,7 +3,7 @@
 <h1  align="center">About me</h1>
 
 <div  align="justify">
-  <p> I am a research scientist working in the field of brain signal processing. My main research interests are Electrophysiology (EEG/MEG); Brain Networks; Brain Disorders; Brain networks similarity </p>
+ <p> I am a researcher at <a href="https://www.chuv.ch/fr/fiches-psy/centre-cantonal-autisme"> CCA CHUV Lausanne </a> working in the field of brain signal processing. My main research interests are Electrophysiology (EEG/MEG); Brain Networks; Brain Disorders; Brain networks similarity </p>
   </div>
 <br>
  
