@@ -8,7 +8,7 @@
 <br>
  
  
-  <h1  align="center">Codes & Data</h1> <br>
+  <h1  align="center">Publications</h1> <br>
  <div align="justify">
    <h3> Brain network similarity : Review </h3>
   <p>
@@ -36,7 +36,7 @@
  
  <br>
   <div  align="justify">
-   <h3>  Publications </h3>
+
   <ul>
 
    <li> J Rizkallah,A Mheich, M Hassan, R Panda, F Wendling,et al. Decreased integration of EEG source-space networks in disorders of consciousness. Decreased integration of EEG source-space networks in disorders of consciousness. NeuroImage: Clinical, 23(April), 101841, 2019.
