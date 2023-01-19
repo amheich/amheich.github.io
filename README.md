@@ -23,7 +23,7 @@
  
  
   <h1  align="center">Publications</h1>
- <h2> Brain network similarity : Review </h2>
+ <h3> Brain network similarity : Review </h3>
  <div align="justify">
   <p>
    In this review, we will discuss the current state of the art, challenges and a collection of analysis tools that have been developed in recent years to compare brain networks
