@@ -14,7 +14,7 @@
   <p>
    In this review, we  discussed the current state of the art, challenges and a collection of analysis tools that have been developed in recent years to compare brain networks
    </p> <br>
-  <p align="center>
+  <p align="center">
   <img src=" Graphs.png" />
   </p>
   <i> A Mheich, F Wendling, M Hassan (2020).</i> <i> <a href="https://direct.mit.edu/netn/article/4/3/507/95827/Brain-network-similarity-methods-and-applications"> Brain network similarity: methods and application </a> Network Neuroscience 4 (3), 507-527.</i>
