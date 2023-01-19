@@ -20,7 +20,7 @@
   </div>
  <div align="justify">
   <h3> HD-EEG open access data </h3>
-  <p><a href="https://openneuro.org/datasets/ds003420/versions/1.0.2"> Dataset 1</a>: This dataset was collected between 2012 and 2013 in Rennes (France) during two conditions (visual naming and spelling tasks).  </p><br>
+  <p><a href="https://openneuro.org/datasets/ds003420/versions/1.0.2"> Dataset 1</a>: This dataset was collected between 2012 and 2013 in Rennes (France) during two conditions (visual naming and spelling tasks).  </p>
   <p><a href="https://openneuro.org/datasets/ds003421/versions/1.0.2"> Dataset 2</a>: This dataset was collected between 2014 and 2017 in Rennes (France) during four conditions (resting state, visual naming, auditory naming and working memory tasks).
   </p>
    
