@@ -18,8 +18,9 @@
   <img src=" Graphs.png" />
   </p>
   <i> A Mheich, F Wendling, M Hassan (2020).</i> <i> <a href="https://direct.mit.edu/netn/article/4/3/507/95827/Brain-network-similarity-methods-and-applications"> Brain network similarity: methods and application </a> Network Neuroscience 4 (3), 507-527.</i>
-  <br>
+  
   </div>
+ <br>
  <div align="justify">
   <h3> HD-EEG open access data </h3>
   <p><a href="https://openneuro.org/datasets/ds003420/versions/1.0.2"> Dataset 1</a>: This dataset was collected between 2012 and 2013 in Rennes (France) during two conditions (visual naming and spelling tasks).  </p>
