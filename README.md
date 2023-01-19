@@ -42,7 +42,8 @@ A Mheich, M Hassan, M Khalil, C Berrou, and F Wendling, A new algorithm for spat
   </ul>
 </div>
 <h1  align="center">To contact me</h1>
-  <div  align="justify">
+ 
+  <div  align="center">
    <figure>
     <a href="https://scholar.google.fr/citations?user=Hdv9uGoAAAAJ&hl=fr&oi=ao">
   <img src="icons8-google-scholar-48.png" alt="scholar google" />
