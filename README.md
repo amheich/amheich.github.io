@@ -18,12 +18,11 @@
    </p>
   <img src=" Methods.png" />
  
-
      <i> A Mheich, F Wendling, M Hassan (2020). Brain network similarity: methods and application. Network Neuroscience 4 (3), 507-527. 
 </i>
   </div>
  <div align="justify">
-  <h3> HD-EEG open data 
+  <h3> HD-EEG open data </h3>
   <p>
    This dataset was collected between 2014 and 2017 in Rennes (France) during four conditions (resting state, visual naming, auditory naming and working memory tasks).
    </p>
