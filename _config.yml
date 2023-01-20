@@ -1,18 +1,5 @@
 theme: jekyll-theme-minimal
 logo: me.jpg
 title: "Ahmad Mheich"
-# Site Author
-author:
-  name             : "Ahmad Mheich"
-  avatar           : "me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Researcher at CCA-CHUV"
-  location         : "Lausanne, Vaud"
-  email            : "ahmad.mheich@chuv.ch"
-  foursquare       :
-  github           : "amheich"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : 
+show_downloads: false
 
