@@ -2,3 +2,33 @@ theme: jekyll-theme-minimal
 title: "Ahmad Mheich"
 logo: me.jpg
 
+author:
+  name             : "Ahmad Mheich"
+  avatar           : "me.jpg"
+  bio              : "Researcher at  CCA-CHUV"
+  location         : "Lausanne, Switzerland"
+  email            : "ahmad.mheich@chuv.ch"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "amheich"
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : "https://www.linkedin.com/in/ahmad-mheich-76583062/"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : 
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+
